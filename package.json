@@ -1,0 +1,19 @@
+{
+  "name": "backtatto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tatto",
+    "Desenvolvimento WEB",
+    "Node.js",
+    "Express",
+    "Dev BackEnd"
+  ],
+  "author": "Matheus Bugatti",
+  "license": "MIT",
+  "description": "Sistema de exemplo para o curso de TI para Internet, IFSP, API",
+  "type": "module"
+}
